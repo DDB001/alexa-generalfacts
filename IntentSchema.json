@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "tell me a fact",
+        "a fact",
+        "tell me a cool fact",
+        "give me a fact",
+        "tell me trivia",
+        "tell me some trivia",
+        "give me some information",
+        "tell me a random fact",
+        "a random fact",
+        "tell me another fact",
+        "tell me a fact",
+        "tell me facts"
+      ],
+      "slots": []
+    }
+  ]
+}
